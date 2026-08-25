@@ -139,28 +139,35 @@ The application generates:
 - ✈️ Travel tips
 
 ---
-
 ## 📸 Screenshots
 
-Add screenshots of:
+### 🏠 Home Page
 
-- Home Page
-- User Input
-- Generated Itinerary
-- Download Button
-
-Example:
-
-```
-screenshots/
-│
-├── home.png
-├── planner.png
-├── output.png
-└── download.png
-```
+<img src="screenshots/home.jpg" width="900">
 
 ---
+
+### 📝 User Input
+
+<img src="screenshots/inputs.jpg" width="900">
+
+---
+
+### 🌍 Generated Travel result
+
+<img src="screenshots/result.jpg" width="900">
+
+---
+### 🌍 Generated Travel budget summary
+
+<img src="screenshots/budget.jpg" width="900">
+
+---
+
+
+### 📄 Download Travel Plan
+
+<img src="screenshots/download.png" width="900">
 
 ## 🔮 Future Enhancements
 
